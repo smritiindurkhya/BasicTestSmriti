@@ -22,6 +22,6 @@ public class BaseClass3Test extends BaseClassTest {
 			}
 
 		}
-
+driver.findElement(By.id("submitButton")).click();
 	}
 }
